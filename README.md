@@ -62,7 +62,7 @@ cp src/.env.example .env
 Update the `NEXT_PUBLIC_API_URL` in your `.env` file based on your setup:
 
 ```yaml
-NEXT_PUBLIC_API_URL=https://jk-go-52014148654.asia-southeast2.run.app/api/
+NEXT_PUBLIC_API_URL=
 ```
 
 ## 🐳 Docker Development
